@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace DavidAdigwu\LaravelDeviceBan\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelDeviceBanCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-device-ban';
 
     public $description = 'My command';
 
