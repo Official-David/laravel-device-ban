@@ -2,9 +2,9 @@
 
 namespace DavidAdigwu\LaravelDeviceBan\Tests;
 
+use DavidAdigwu\LaravelDeviceBan\LaravelDeviceBanServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use DavidAdigwu\LaravelDeviceBan\LaravelDeviceBanServiceProvider;
 
 class TestCase extends Orchestra
 {
