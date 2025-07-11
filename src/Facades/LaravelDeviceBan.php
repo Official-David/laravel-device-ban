@@ -2,7 +2,6 @@
 
 namespace DavidAdigwu\LaravelDeviceBan\Facades;
 
-
 /**
  * @see \DavidAdigwu\LaravelDeviceBan\LaravelDeviceBan
  */

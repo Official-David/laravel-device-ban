@@ -2,9 +2,9 @@
 
 namespace DavidAdigwu\LaravelDeviceBan;
 
+use DavidAdigwu\LaravelDeviceBan\Commands\LaravelDeviceBanCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use DavidAdigwu\LaravelDeviceBan\Commands\LaravelDeviceBanCommand;
 
 class LaravelDeviceBanServiceProvider extends PackageServiceProvider
 {
