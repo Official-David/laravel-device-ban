@@ -1,11 +1,9 @@
-# "Laravel Device Ban is a simple and powerful package that helps you prevent devices from creating multiple user accounts on your Laravel application. It works by identifying and blocking devices based on configurable fingerprinting methods, making it harder for malicious users to bypass signup restrictions using the same device"
-
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/official-david/laravel-device-ban.svg?style=flat-square)](https://packagist.org/packages/official-david/laravel-device-ban)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/official-david/laravel-device-ban/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/official-david/laravel-device-ban/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/official-david/laravel-device-ban/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/official-david/laravel-device-ban/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/official-david/laravel-device-ban.svg?style=flat-square)](https://packagist.org/packages/official-david/laravel-device-ban)
 
-This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
+Laravel Device Ban is a simple and powerful package that helps you prevent devices from creating multiple user accounts on your Laravel application. It works by identifying and blocking devices based on configurable fingerprinting methods, making it harder for malicious users to bypass signup restrictions using the same device.
 
 ## Support us
 
